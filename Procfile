@@ -1,1 +1,1 @@
-node ./bin/www
+pm2-runtime start ecosystem.config.js
